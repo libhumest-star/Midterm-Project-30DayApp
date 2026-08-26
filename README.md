@@ -11,8 +11,6 @@ Built with Jetpack Compose and Material 3 as the final project for
 [Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course),
 Unit 3.
 
-![The app in dark and light themes](screenshots/preview.png)
-
 ## What it does
 
 Thirty restaurants, ordered so that reading day by day walks you outward across the
